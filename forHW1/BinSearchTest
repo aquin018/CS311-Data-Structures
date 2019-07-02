@@ -1,0 +1,27 @@
+Script started on Mon 22 Feb 2016 12:09:16 PM PST
+]0;aquin018@empress:~/cs311/HWPrograms/forHW1[aquin018@empress forHW1]$ exitw[Kexitmacs Binsearch.cpp[12P./a.out[K[K[K[K[K[K[Kg++ Binsearch.cpp
+]0;aquin018@empress:~/cs311/HWPrograms/forHW1[aquin018@empress forHW1]$ ./a.out
+Enter an number to look for: 1
+Found 1 in position 1
+]0;aquin018@empress:~/cs311/HWPrograms/forHW1[aquin018@empress forHW1]$ ./a.out
+Enter an number to look for: 19
+Found 19 in position 10
+]0;aquin018@empress:~/cs311/HWPrograms/forHW1[aquin018@empress forHW1]$ ./a.out
+Enter an number to look for: 5
+Found 5 in position 3
+]0;aquin018@empress:~/cs311/HWPrograms/forHW1[aquin018@empress forHW1]$ ./a.out
+Enter an number to look for: 17
+Found 17 in position 9
+]0;aquin018@empress:~/cs311/HWPrograms/forHW1[aquin018@empress forHW1]$ ./a.out
+Enter an number to look for: 21
+Find 21 fails to be found.
+]0;aquin018@empress:~/cs311/HWPrograms/forHW1[aquin018@empress forHW1]$ ./a.out
+Enter an number to look for: 0
+Find 0 fails to be found.
+]0;aquin018@empress:~/cs311/HWPrograms/forHW1[aquin018@empress forHW1]$ ./a.out
+Enter an number to look for: 6
+Find 6 fails to be found.
+]0;aquin018@empress:~/cs311/HWPrograms/forHW1[aquin018@empress forHW1]$ exit
+exit
+
+Script done on Mon 22 Feb 2016 12:09:51 PM PST

@@ -1,0 +1,159 @@
+Script started on Thu 10 Mar 2016 01:11:57 PM PST
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ g++ llist.cpp HW3P1client.cpp
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ ./a.out
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>1
+CASE 1:------------------- 
+Step 1:
+[The list is empty]
+
+Step 2:
+It is [ Empty ]
+
+Step 3:
+integers have been added.
+
+Step 4:
+[ 1 2 3 4  ]
+
+Step 5:
+The element 1 has been deleted from the front list.
+The element 2 has been deleted from the front list.
+
+Step 6:
+[ 3 4  ]
+
+Step 7:
+The list is not empty.
+Results: [ 3 4  ]
+
+Step 8:
+The element 4 has been deleted from the rear list.
+The element 3 has been deleted from the rear list.
+
+Step 9:
+
+Calling the list destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>2
+Case 2: -----------------------
+Step :1
+added element 5 in front list
+
+Step :2
+added element 4 in front list
+
+Step :3
+deleted front element
+
+Step :4
+added rear elements 6,8,9
+
+Step :5
+[ 5 6 8 9  ]
+
+Step :6
+added element 4 before 1st
+
+Step :7
+added element 7 before 4th
+
+Step :8
+added element 10 before 7th
+
+Step :9
+Error: Since it could not be inserted element 12 before 9th element. It is out of range.
+
+Step :10
+Error: Since it could not be inserted element 0 before 0th element. It is out of range.
+
+Step :11
+[ 4 5 6 7 8 10 9  ]
+
+Step :12
+deleted element 4
+
+Step :13
+deleted element 10
+
+Step :14
+deleted element 7
+
+Step :15
+Error: Could not remove 5th index element. Out of range
+Step :16
+Error: Could not remove 0 index element. Out of range
+Step :17
+[ 5 6 8 9  ]
+
+Step :18
+Deleted 5
+Deleted 6
+Deleted 8
+Deleted 9
+
+Step :19
+It is [ Empty ]
+
+Calling the list destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>3
+Case 3:-------------------- 
+Step :1
+Error: Since it could not be inserted element 0 before 0th element. It is out of range.
+
+Step :2
+Error: Could not delete front element: It is underflow.
+
+Calling the list destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>4
+Case 4:------------------------ 
+Step :1
+Error: Cannot delete 2nd.  It is out of range.
+
+Step :2
+Error: Could not delete rear element: It is underflow.
+Calling the list destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>0
+Exit: GoodBye
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ exit
+exit
+
+Script done on Thu 10 Mar 2016 01:12:23 PM PST

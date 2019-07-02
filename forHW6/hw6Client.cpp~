@@ -1,0 +1,56 @@
+//=========================================================================
+// HW#: HW6 hw6Client.cpp
+// Your name: Alejandro Aquino
+// Compiler:  g++
+// File type: client file
+//=========================================================================
+
+#include <iostream>
+#include <string>
+using namespace std;
+#include "dgraph.h"
+
+int main()
+{ 
+  dgraph graph;
+  char ch;
+  int Dfound;
+  graph.fillTable();
+  graph.displayGraph();
+
+  while(true)//this will not stop until user enters 'e' to quit
+    {
+      cout << "To get out of the degree ." << endl;
+      cout << "Enter a vertex name or enter 'e' to exit: ";
+      cin >> ch; 
+      //Dfound = graph.findOutDegree;
+
+      if(ch == 'e')
+	break;
+      else
+	{
+      cout << "The degree " << ch << "is " << graph.findOutDegree(ch) << endl;; 
+	}//end of else
+    }//end of while loop
+  /*
+  1.fillTable()
+  2.displayGraph()
+  while (the user does not want to stop)
+    a.the user will specify which vertex     
+    b.findOutDegree of the vertex and display the result
+    c.catch exception but do not exit
+
+  while (the user does not want to stop)
+    a.the user will specify which vertex
+    b.findAdjacency of the vertex and display the result (see Hint)
+    c.catch exception but do not exit
+    return 0; */
+}
+
+/*
+Hint:
+  slist l1;
+  l1 = G.findAdjacency('a');
+  // how do you display l1?  Hint: it is an slist from HW3.
+
+*/

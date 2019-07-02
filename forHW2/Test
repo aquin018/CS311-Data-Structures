@@ -1,0 +1,52 @@
+Script started on Tue 01 Mar 2016 12:43:03 PM PST
+]0;aquin018@empress:~/cs311/HWPrograms/forHW2[aquin018@empress forHW2]$ g++ combine.cpp
+]0;aquin018@empress:~/cs311/HWPrograms/forHW2[aquin018@empress forHW2]$ ./a.out
+How many integers will you enter: 6
+Enter first 3 integers in order: 
+Enter here: 1
+Enter here: 2
+Enter here: 3
+Enter last 3 integers in order:
+Enter here: 4
+Enter here: 5
+Enter here: 6
+The combination of L1 and L2 are: 1 2 3 4 5 6 
+]0;aquin018@empress:~/cs311/HWPrograms/forHW2[aquin018@empress forHW2]$ ./a.out
+How many integers will you enter: 6
+Enter first 3 integers in order: 
+Enter here: 1
+Enter here: 3
+Enter here: 5
+Enter last 3 integers in order:
+Enter here: 2
+Enter here: 4
+Enter here: 6
+The combination of L1 and L2 are: 1 2 3 4 5 6 
+]0;aquin018@empress:~/cs311/HWPrograms/forHW2[aquin018@empress forHW2]$ ./a.out
+How many integers will you enter: 6
+Enter first 3 integers in order: 
+Enter here: 4
+Enter here: 5
+Enter here: 6
+Enter last 3 integers in order:
+Enter here: 1
+Enter here: 2
+Enter here: 3
+The combination of L1 and L2 are: 1 2 3 4 5 6 
+]0;aquin018@empress:~/cs311/HWPrograms/forHW2[aquin018@empress forHW2]$ ./a.out
+How many integers will you enter: 8
+Enter first 4 integers in order: 
+Enter here: 1
+Enter here: 2
+Enter here: 5
+Enter here: 6
+Enter last 4 integers in order:
+Enter here: 3
+Enter here: 4
+Enter here: 7
+Enter here: 8
+The combination of L1 and L2 are: 1 2 3 4 5 6 7 8 
+]0;aquin018@empress:~/cs311/HWPrograms/forHW2[aquin018@empress forHW2]$ exit
+exit
+
+Script done on Tue 01 Mar 2016 12:44:00 PM PST

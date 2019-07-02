@@ -1,0 +1,44 @@
+Script started on Mon 21 Mar 2016 05:08:48 PM PDT
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ g++ hw3ec.cpp slist.cpp llist.cpp
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ ./a.out
+1. L1 is empty and L2 is empty: 
+List 1:It is [ Empty ]
+List 2:It is [ Empty ]
+True
+
+L1 is empty and L2 has 2 elements: 
+List 1:It is [ Empty ]
+List 2:[ 1 2 ]
+False
+
+L1 has 2 elements and L2 is empty: 
+List 1:[ 1 2 ]
+List 2:It is [ Empty ]
+False
+
+L1 has 1,2,3 and L2 has 1,2,3: 
+List 1:[ 1 2 3 ]
+List 2:[ 1 2 3 ]
+True
+
+L1 has 1,2,3 and L2 has 1,2: 
+List 1:[ 1 2 3 ]
+List 2:[ 1 2 ]
+False
+
+L1 has 1,2,3 and L2 has 1,2,3,4: 
+List 1:[ 1 2 3 ]
+List 2:[ 1 2 3 4 ]
+False
+
+L1 has 1,2,3 and L2 has 1,2,4: 
+List 1:[ 1 2 3 ]
+List 2:[ 1 2 4 ]
+False
+
+Calling the list destructor.
+Calling the list destructor.
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ exit
+exit
+
+Script done on Mon 21 Mar 2016 05:09:07 PM PDT

@@ -1,0 +1,312 @@
+Script started on Sat 23 Apr 2016 03:27:42 PM PDT
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ g++ hw6Client.cpp dgraph.cpp slist.cpp llist.cpp
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ ./a.out
+*****************
+Graph Name: A
+Graph Degree: 2
+[ 66 70 ]
+*****************
+*****************
+Graph Name: B
+Graph Degree: 2
+[ 67 71 ]
+*****************
+*****************
+Graph Name: C
+Graph Degree: 1
+[ 72 ]
+*****************
+*****************
+----The graph D is [EMPTY]----
+******************
+*****************
+----The graph E is [EMPTY]----
+******************
+*****************
+Graph Name: F
+Graph Degree: 2
+[ 73 69 ]
+*****************
+*****************
+----The graph G is [EMPTY]----
+******************
+*****************
+Graph Name: H
+Graph Degree: 2
+[ 71 73 ]
+*****************
+*****************
+Graph Name: I
+Graph Degree: 3
+[ 65 71 69 ]
+*****************
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: a
+[Error: The vertex a does not exist.]
+Error Code: -1
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: b
+[Error: The vertex b does not exist.]
+Error Code: -1
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: c
+[Error: The vertex c does not exist.]
+Error Code: -1
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: d
+[Error: The vertex d does not exist.]
+Error Code: -1
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: f
+[Error: The vertex f does not exist.]
+Error Code: -1
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: g
+[Error: The vertex g does not exist.]
+Error Code: -1
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: h
+[Error: The vertex h does not exist.]
+Error Code: -1
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: i
+[Error: The vertex i does not exist.]
+Error Code: -1
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: A
+[Vertex found!]
+The degree A is 2
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: B
+[Vertex found!]
+The degree B is 2
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: C
+[Vertex found!]
+The degree C is 1
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: D
+[Vertex found!]
+The degree D is 0
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: E
+[Vertex found!]
+The degree E is 0
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: F
+[Vertex found!]
+The degree F is 2
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: G
+[Vertex found!]
+The degree G is 0
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: H
+[Vertex found!]
+The degree H is 2
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: I
+[Vertex found!]
+The degree I is 3
+----------------------
+[Finding Degree]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: e
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: a
+The adjacent a is 
+Calling the list destructor.
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: b
+The adjacent b is 
+Calling the list destructor.
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: c
+The adjacent c is 
+Calling the list destructor.
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: d
+The adjacent d is 
+Calling the list destructor.
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: f
+The adjacent f is 
+Calling the list destructor.
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: g
+The adjacent g is 
+Calling the list destructor.
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: h
+The adjacent h is 
+Calling the list destructor.
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: i
+The adjacent i is 
+Calling the list destructor.
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: A
+The adjacent A is 
+Calling the list destructor.
+[ 66 70 ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: B
+The adjacent B is 
+Calling the list destructor.
+[ 67 71 ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: C
+The adjacent C is 
+Calling the list destructor.
+[ 72 ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: D
+The adjacent D is 
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: E
+The adjacent E is 
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: F
+The adjacent F is 
+Calling the list destructor.
+[ 73 69 ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: G
+The adjacent G is 
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: H
+The adjacent H is 
+Calling the list destructor.
+[ 71 73 ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: I
+The adjacent I is 
+Calling the list destructor.
+[ 65 71 69 ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: J
+The adjacent J is 
+Calling the list destructor.
+Calling the list destructor.
+It is [ Empty ]
+--------------------
+[Finding adjacent list]
+To get out of the degree .
+Enter a vertex name or enter 'e' to exit: e
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ exit
+exit
+
+Script done on Sat 23 Apr 2016 03:28:59 PM PDT

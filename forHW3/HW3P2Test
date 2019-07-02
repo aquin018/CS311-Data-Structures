@@ -1,0 +1,47 @@
+Script started on Mon 14 Mar 2016 01:30:01 PM PDT
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ g++ HW3P2client.cpp slist.cpp llist.cpp
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ ./a.out
+Step: 1
+Added element 4 to the front. 
+----------------------------------
+
+Step: 2
+Added elements 6,7,8 to the rear.
+----------------------------------
+
+Step: 3
+[ 4 6 7 8  ]
+----------------------------------
+
+Step: 4
+found 6 in position #2 in the list
+----------------------------------
+
+Step: 5
+replaced 6 with 0
+----------------------------------
+
+Step: 6
+found 8 in position #4 in the list
+----------------------------------
+
+Step: 7
+replaced 8 with 2
+----------------------------------
+
+Step: 8
+[ 4 0 7 2  ]
+----------------------------------
+
+Step: 9
+5 could not be found in the list.
+----------------------------------
+
+Step: 10
+ERROR: Bad position was given
+----------------------------------
+Calling the list destructor.
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ exit
+exit
+
+Script done on Mon 14 Mar 2016 01:30:25 PM PDT

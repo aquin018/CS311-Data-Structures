@@ -1,0 +1,63 @@
+Script started on Mon 21 Mar 2016 02:41:59 PM PDT
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ g++ HW3P3client.cpp slist.cpp llist.cpp
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ ./a.out
+Step: 1
+Created 1 to the front.
+Created 2,3,4,5 to the rear.
+
+Step: 2
+in copy test
+Adding 6 to the rear
+finished
+[ 1 2 3 4 5 6  ]
+Calling the list destructor.
+Calling the list destructor.
+-- After copytest --- 
+
+Step: 3
+Displaying L1:
+[ 1 2 3 4 5  ]
+
+-- Testing operator overloading ---
+Step: 4
+Did L1=L1;
+
+Step: 5
+Displaying L1:
+[ 1 2 3 4 5  ]
+
+Step: 6
+Created 7,8,9,10 into L2
+
+Step: 7
+Displaying L2:
+[ 7 8 9 10  ]
+
+Step: 8
+Did L2 = L1
+
+Step: 9
+Displaying L2:
+[ 1 2 3 4 5  ]
+
+Step: 10
+Deleted Rear node from L1.
+
+Step: 11
+Displaying L1:
+[ 1 2 3 4  ]
+
+Step: 12
+Displaying L1:
+[ 1 2 3 4  ]
+
+Step: 13
+Displaying L2:
+[ 1 2 3 4 5  ]
+
+Calling the list destructor.
+Calling the list destructor.
+]0;aquin018@empress:~/cs311/HWPrograms/forHW3[aquin018@empress forHW3]$ exit
+exit
+
+Script done on Mon 21 Mar 2016 02:42:24 PM PDT

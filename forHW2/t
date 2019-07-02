@@ -1,0 +1,19 @@
+Script started on Tue 01 Mar 2016 12:42:04 PM PST
+]0;aquin018@empress:~/cs311/HWPrograms/forHW2[aquin018@empress forHW2]$ g++ combine.cpp
+]0;aquin018@empress:~/cs311/HWPrograms/forHW2[aquin018@empress forHW2]$ ./a.out
+How many integers will you enter: 8
+Enter first 4 integers in order: 
+Enter here: 1
+Enter here: 23
+Enter here: 3
+Enter here: 5
+Enter last 4 integers in order:
+Enter here: 6
+Enter here: 7
+Enter here: 8
+Enter here: 9
+The combination of L1 and L2 are: 1 6 7 8 9 23 3 5 
+]0;aquin018@empress:~/cs311/HWPrograms/forHW2[aquin018@empress forHW2]$ exit
+exit
+
+Script done on Tue 01 Mar 2016 12:42:27 PM PST

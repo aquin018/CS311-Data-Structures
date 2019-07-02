@@ -1,0 +1,85 @@
+Script started on Fri 06 May 2016 02:33:17 PM PDT
+]0;aquin018@empress:~/cs311/HWPrograms/forHW7[aquin018@empress forHW7]$ g++ stack.cpp slit[Kst.cpp llist.cpp dgraph.cpp hw7Clien. cpp
+g++: hw7Clien.cpp: No such file or directory
+]0;aquin018@empress:~/cs311/HWPrograms/forHW7[aquin018@empress forHW7]$ g++ stack.cpp slist.cpp llist.cpp dgraph.cpp hw7Clien.ccpp[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp[C[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctc[Cp.cpp[C
+]0;aquin018@empress:~/cs311/HWPrograms/forHW7[aquin018@empress forHW7]$ ./a.out
+The table is filling up..
+Displaying graph...
+*****************
+Graph Name: A
+Graph Degree: 2
+Graph Visit: 0
+[ 66 70 ]
+*****************
+*****************
+Graph Name: B
+Graph Degree: 2
+Graph Visit: 0
+[ 67 71 ]
+*****************
+*****************
+Graph Name: C
+Graph Degree: 1
+Graph Visit: 0
+[ 72 ]
+*****************
+*****************
+----The graph D is [EMPTY]----
+******************
+*****************
+----The graph E is [EMPTY]----
+******************
+*****************
+Graph Name: F
+Graph Degree: 2
+Graph Visit: 0
+[ 73 69 ]
+*****************
+*****************
+----The graph G is [EMPTY]----
+******************
+*****************
+Graph Name: H
+Graph Degree: 2
+Graph Visit: 0
+[ 71 73 ]
+*****************
+*****************
+Graph Name: I
+Graph Degree: 3
+Graph Visit: 0
+[ 65 71 69 ]
+*****************
+...Marking DFS by starting with A...
+Displaying the stack...
+.[ empty ].
+--------------
+Displaying the graph
+***************************
+Vertex Name: A
+Vertex Number of Visits: 1
+***************************
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+Calling the list destructor.
+]0;aquin018@empress:~/cs311/HWPrograms/forHW7[aquin018@empress forHW7]$ exit
+exit
+
+Script done on Fri 06 May 2016 02:33:48 PM PDT
